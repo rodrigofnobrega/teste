@@ -1,3 +1,12 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: "[FEAT] "
+labels: enhancement
+assignees: ''
+
+---
+
 ## Descreva a nova feature
 
 Descreva o novo recurso solicitado.

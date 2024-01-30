@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG] "
+labels: bug, enhancement
+assignees: ''
+
+---
+
 ## Descrição do Bug
 
 Descreva como o bug foi encontradoS.
@@ -39,4 +48,3 @@ Antes de enviar a issue, certifique-se de que todas as caixas abaixo estão marc
 - [ ] Eu verifiquei se este bug ainda não foi relatado.
 - [ ] Eu estou usando a versão mais recente do software.
 - [ ] Eu forneci informações detalhadas para facilitar a resolução do problema.
-
